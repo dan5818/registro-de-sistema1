@@ -2,5 +2,5 @@
 
 -Estado del proyeco en construccion
 
-para ejeutar el sistema, debes poiner :
+para ejeutar el sistema, debes poner :
 ´´´´npm install react´´´´
